@@ -9,19 +9,19 @@
 - Computer Vision — Técnicas de procesamiento y análisis de rostros
 
 🎯 Estructura del Proyecto (5 Pasos)
-1️⃣ Cuestionario Inicial
+<br>1️⃣ Cuestionario Inicial
 - Validación de la comprensión del problema
 - Identificación de objetivos y restricciones
-2️⃣ Análisis Exploratorio
+<br>2️⃣ Análisis Exploratorio
 - Revisión del dataset de imágenes
 - Exploración de distribución de edades, calidad de imágenes y variabilidad
-3️⃣ Entrenamiento del Modelo
+<br>3️⃣ Entrenamiento del Modelo
 - Construcción de la red neuronal
 - Entrenamiento y ajuste de hiperparámetros
 - Evaluación del desempeño del modelo
-4️⃣ Notebook Final
+<br>4️⃣ Notebook Final
 - Integración del código, resultados y visualizaciones
 - Documentación clara del flujo de trabajo
-5️⃣ Conclusiones
+<br>5️⃣ Conclusiones
 - Evaluación de la efectividad del modelo
 - Limitaciones y oportunidades de mejora
